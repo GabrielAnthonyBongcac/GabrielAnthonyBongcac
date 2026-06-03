@@ -49,7 +49,7 @@ book for flights which meet their trip specifications, including dates, passenge
 information, and the places of departure and arrival. Using this system, users will be
 able to search for flight options, choose seats, and confirm their tickets.
 
-Repository: https://github.com/GabrielAnthonyBongcac/FlyEasy.git
+Repository: https://github.com/GabrielAnthonyBongcac/FlyEasy
 
 ___
 
@@ -63,7 +63,7 @@ automated eligibility scoring mechanism objectively ranks applicants based on
 household income, electricity status, household size, and location type — ensuring
 fair and transparent prioritization.
 
-Repository: https://github.com/GabrielAnthonyBongcac/SOLAR-PANEL-INSTALLATION-REQUEST-AND-TRACKING-SYSTEM.git
+Repository: https://github.com/GabrielAnthonyBongcac/SOLAR-PANEL-INSTALLATION-REQUEST-AND-TRACKING-SYSTEM
 
 ___
 
