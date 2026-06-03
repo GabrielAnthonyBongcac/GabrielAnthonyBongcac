@@ -5,6 +5,8 @@ Back-End Developer | Focusing on Database Management
 
 Portfolio: https://gabrielanthonybongcac.github.io
 
+___
+
 ## ABOUT ME
 
 I am a 2nd year Bachelor of Science in Information Technology student at Davao Del Norte State University, with a strong dedication to learning and developing in the endless possibilities technology has to offer.
@@ -12,6 +14,8 @@ I am a 2nd year Bachelor of Science in Information Technology student at Davao D
 I am currently building my foundation in Database Management, with hands-on experience in using MySQL. I have worked on creating and querying relational databases, writing basic to intermediate SQL queries, and understanding concepts of database management.
 
 I am still learning the logic behind structuring data efficiently, but I am actively growing my skills through practice to keep on improving.
+
+___
 
 ## SKILLS
 
@@ -31,6 +35,8 @@ I am still learning the logic behind structuring data efficiently, but I am acti
 
 • CSS3
 
+___
+
 ## PROJECTS
 
 ### FlyEasy
@@ -45,6 +51,7 @@ able to search for flight options, choose seats, and confirm their tickets.
 
 Repository: https://github.com/GabrielAnthonyBongcac/FlyEasy.git
 
+___
 
 ### Solar Panel Installation Request and Tracking System in Support of SDG 7
 
@@ -57,3 +64,13 @@ household income, electricity status, household size, and location type — ensu
 fair and transparent prioritization.
 
 Repository: https://github.com/GabrielAnthonyBongcac/SOLAR-PANEL-INSTALLATION-REQUEST-AND-TRACKING-SYSTEM.git
+
+___
+
+## CONTACT ME
+
+Email: bongcacgabriel@gmail.com
+
+Phone: 0992 695 8575
+
+GitHub: https://github.com/GabrielAnthonyBongcac
