@@ -53,3 +53,5 @@ administrators efficiently review, approve, schedule, and monitor installations.
 automated eligibility scoring mechanism objectively ranks applicants based on
 household income, electricity status, household size, and location type — ensuring
 fair and transparent prioritization.
+
+Repository: https://github.com/GabrielAnthonyBongcac/SOLAR-PANEL-INSTALLATION-REQUEST-AND-TRACKING-SYSTEM.git
