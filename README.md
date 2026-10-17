@@ -71,6 +71,8 @@ ___
 
 Email: bongcacgabriel@gmail.com
 
+Outlook: bongcacgabriel@outlook.com
+
 Phone: 0992 695 8575
 
 GitHub: https://github.com/GabrielAnthonyBongcac
