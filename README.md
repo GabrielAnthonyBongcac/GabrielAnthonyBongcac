@@ -69,7 +69,7 @@ ___
 
 ## CONTACT ME
 
-Email: bongcacgabriel@gmail.com
+Gmail: bongcacgabriel@gmail.com
 
 Outlook: bongcacgabriel@outlook.com
 
